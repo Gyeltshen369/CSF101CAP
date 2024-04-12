@@ -11,7 +11,7 @@
 # https://www.youtube.com/watch?v=aequTxAvQq4
 ################################
 # SOLUTION
-# Your Solution Score:46944
+# Your Solution Score:50169
 # Put your number here:7
 ################################
 
